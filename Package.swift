@@ -13,7 +13,7 @@ let package = Package(
         // Intentionally outdated versions (historically vulnerable / deprecated)
         .package(url: "https://github.com/Alamofire/Alamofire.git", exact: "4.9.1"),
         .package(url: "https://github.com/SwiftyJSON/SwiftyJSON.git", exact: "4.0.0"),
-        .package(url: "https://github.com/krzyzanowskim/CryptoSwift.git", exact: "1.0.0"),
+        .package(url: "https://github.com/krzyzanowskim/CryptoSwift.git", exact: "1.9.0"),
         .package(url: "https://github.com/daltoniam/Starscream.git", exact: "3.0.6"),
         .package(url: "https://github.com/onevcat/Kingfisher.git", exact: "4.10.1"),
         .package(url: "https://github.com/ReactiveX/RxSwift.git", exact: "5.1.1")
